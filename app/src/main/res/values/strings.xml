@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bienvenue sur NextToDustbin</string>
+    <string name="txtCredits">Lien<a href="http://ge.ch/dechets">!</a></string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_find">Chercher</string>
+    <string name="bouton">button1</string>
+    <string name="title_activity_map">MapActivity</string>
+
+</resources>
